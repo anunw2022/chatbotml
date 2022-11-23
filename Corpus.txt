@@ -1,0 +1,47 @@
+Doc_ID,Text
+1,"The computer is presented with example inputs and their desired outputs, and the goal is to learn a general rule that maps inputs to outputs."
+2,"No labels are given to the learning algorithm, leaving it on its own to find structure in its input. Unsupervised learning can be a goal in itself (discovering hidden patterns in data) or a means towards an end."
+3,"A computer program interacts with a dynamic environment in which it must perform a certain goal (such as driving a vehicle), without a teacher explicitly telling it whether it has come close to its goal or not. Another example is learning to play a game by playing against an opponent."
+4,Machine learning is a subfield of computer science that evolved from the study of pattern recognition and computational learning theory in artificial intelligence.Machine learning explores the construction and study of algorithms that can learn from and make predictions on data.
+5,"Transduction is a special case of this principle where the entire set of problem instances is known at learning time, except that part of the targets are missing."
+6,"In regression, also a supervised problem, the outputs are continuous rather than discrete."
+7,"In classification, inputs are divided into two or more classes, and the learner must produce a model that assigns unseen inputs to one (or multi-label classification) or more of these classes. This is typically tackled in a supervised way. "
+8,"In clustering, a set of inputs is to be divided into groups. Unlike in classification, the groups are not known beforehand, making this typically an unsupervised task."
+9,Dimensionality reduction simplifies inputs by mapping them into a lower-dimensional space.
+10,"Topic modeling is a related problem, where a program is given a list of human language documents and is tasked to find out which documents cover similar topics."
+11,Machine learning and data mining often employ the same methods and overlap significantly.
+12,"Machine learning focuses on prediction, based on known properties learned from the training data."
+13,Data mining focuses on the discovery of (previously) unknown properties in the data. This is the analysis step of Knowledge Discovery in Databases.
+14,"Decision tree learning uses a decision tree as a predictive model, which maps observations about an item to conclusions about the item’s target value."
+15,Association rule learning is a method for discovering interesting relations between variables in large databases.
+16,"An artificial neural network (ANN) learning algorithm, usually called “neural network” (NN), is a learning algorithm that is inspired by the structure and functional aspects of biological neural networks."
+17,"Inductive logic programming (ILP) is an approach to rule learning using logic programming as a uniform representation for input examples, background knowledge, and hypotheses. "
+18,"Inductive programming is a related field that considers any kind of programming languages for representing hypotheses (and not only logic programming), such as functional programs."
+19,Support vector machines (SVMs) are a set of related supervised learning methods used for classification and regression. 
+20,"Cluster analysis is the assignment of a set of observations into subsets (called clusters) so that observations within the same cluster are similar according to some predesignated criterion or criteria, while observations drawn from different clusters are dissimilar."
+21,"Clustering is a method of unsupervised learning, and a common technique for statistical data analysis."
+22,Reinforcement learning algorithms attempt to find a policy that maps states of the world to the actions the agent ought to take in those states.
+23,"A Bayesian network, belief network or directed acyclic graphical model is a probabilistic graphical model that represents a set of random variables and their conditional independencies via a directed acyclic graph (DAG). For example, a Bayesian network could represent the probabilistic relationships between diseases and symptoms."
+24,Reinforcement learning is concerned with how an agent ought to take actions in an environment so as to maximize some notion of long-term reward. 
+25,"Reinforcement learning differs from the supervised learning problem in that correct input/output pairs are never presented, nor sub-optimal actions explicitly corrected."
+26,"Similarity learning, the learning machine is given pairs of examples that are considered similar and pairs of less similar objects. It then needs to learn a similarity function (or a distance metric function) that can predict if new objects are similar. It is sometimes used in Recommendation systems."
+27,"Sparse dictionary learning has been applied in several contexts. In classification, the problem is to determine which classes a previously unseen datum belongs to. Suppose a dictionary for each class has already been built."
+28,"A genetic algorithm (GA) is a search heuristic that mimics the process of natural selection, and uses methods such as mutation and crossover to generate new genotype in the hope of finding good solutions to a given problem."
+29,"The entropy, H , of a discrete random variable X intuitively is a measure of the amount of uncertainty associated with the value of X when only its distribution is known. "
+30,"In statistics, exploratory data analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods."
+31,"Predictive analytics encompasses a variety of statistical techniques from modeling, machine learning, and data mining that analyze current and historical facts to make predictions about future, or otherwise unknown, events."
+32,The Multilayer Perceptron (MLP) consists of an input and an output layer with one or more hidden layers of nonlinearly-activating nodes or sigmoid nodes.
+33,"Support Vector Machines (SVM) are used to detect and exploit complex patterns in data by clustering, classifying and ranking the data. "
+34,Naive Bayes assumes the predictors are statistically independent which makes it an effective classification tool that is easy to interpret. 
+35,The nearest neighbour algorithm (KNN) belongs to the class of pattern recognition statistical methods. The method does not impose a priori any assumptions about the distribution from which the modeling sample is drawn. 
+36,"In mathematics, the Euclidean distance or Euclidean metric is the “ordinary” (i.e straight line) distance between two points in Euclidean space. With this distance, Euclidean space becomes a metric space. The associated norm is called the Euclidean norm."
+37,"The Hamming distance between two strings of equal length is the number of positions at which the corresponding symbols are different. In another way, it measures the minimum number of substitutions required to change one string into the other, or the minimum number of errors that could have transformed one string into the other."
+38,"Regularization, in mathematics and statistics and particularly in the fields of machine learning and inverse problems, refers to a process of introducing additional information in order to solve an ill-posed problem or to prevent overfitting."
+39,A loss function or cost function is a function that maps an event or values of one or more variables onto a real number intuitively representing some “cost” associated with the event.
+40,"An objective function is either a loss function or its negative (some-times called a reward function, a profit function, a utility function, etc.), in which case it is to be maximized."
+41,Least squares means that the overall solution minimizes the sum of the squares of the errors made in the results of every single equation.
+42,Supervised learning is the machine learning task of inferring a function from labeled training data.
+43,"A supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples. The training data consist of a set of training examples."
+44,linear regression is an approach for modeling the relationship between a scalar dependent variable y and one or more explanatory variables (or independent variable) denoted.
+45,"In linear regression, data are modeled using linear predictor functions, and unknown model parameters are estimated from the data. Such models are called linear models."
+46,Maximum likelihood estimation can be performed when the distribution of the error terms is known to belong to a certain parametric family of probability distributions.

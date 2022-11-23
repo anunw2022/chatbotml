@@ -1,0 +1,69 @@
+patterns,tags
+hi,Intro
+how are you,Intro
+is anyone there,Intro
+hello,Intro
+whats up,Intro
+hey,Intro
+yo,Intro
+listen,Intro
+Thank you,Exit
+Thanks,Exit
+see you,Exit
+I am leaving,Exit
+bye,Exit
+what is machine learning,machine learning
+tell me about machine learning,machine learning
+teach me about machine learning,machine learning
+why should we use machine learning,machine learning application
+what are machine learning applications,machine learning application
+is there any use to machine learning,machine learning application
+how is machine learning used,machine learning application
+what are applications of machine learning,machine learning application
+purpose of machine learning,machine learning application
+what are the types of machine learning,types
+what are the different categories of machine learning,types
+different types of ML,types
+are there different types of machine learning,types
+what is supervised machine learning ,supervised
+why is it called supervised learning,supervised
+supervised learning defintion,supervised
+how supervised learning works,supervised
+what is supervised machine learning ,unsupervised
+why is it called supervised learning,unsupervised
+supervised learning defintion,unsupervised
+how supervised learning works,unsupervised
+what is a neural network,deeplearning
+different types of neural network,deeplearning
+definition of a neural network,deeplearning
+difference between supervised and unsupervised,comparison
+advantages of supervised learning,comparison
+advantages of unsupervised learning,comparison
+Example of a basic algorithm in machine learning,algorithms
+define a basic algorithm in machine learning,algorithms
+detail a basic algorithem in machine learning,algorithms
+illustrate a basic algorithm in machine learning,algorithms
+what are linear regression,linear regression
+how to estimate housing prices,linear regression
+define linear regression,linear regression
+application of linear regression,linear regression
+purpose of linear regression,linear regression
+purpose of logistic regression,logistic regression
+what is the use of logistic regression,logistic regression
+application of logistic regression,logistic regression
+what is a loss function,loss function
+define a loss function,loss function
+explain a loss function,loss function
+what is a least square,least squares
+define a least square,least squares
+explain a least square,least squares
+what is principal component analysis,PCA
+define principal component analysis,PCA
+what is PCA,PCA
+use of PCA,PCA
+what is dimenionality reduction,dimensionality reduction
+defined dimensionality reduction,dimensionality reduction
+purpose of dimensinality reduction,dimensionality reduction
+what is gradient boosting,gradient boosting
+use of gradient boosting,gradient boosting
+define gradient boosting,gradient boosting
